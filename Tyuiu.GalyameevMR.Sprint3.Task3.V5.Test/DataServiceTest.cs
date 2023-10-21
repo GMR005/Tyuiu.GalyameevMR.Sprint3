@@ -7,7 +7,7 @@ namespace Tyuiu.GalyameevMR.Sprint3.Task3.V5.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void CheckTextReplace()
+        public void CheckTextReplace() 
         {
             DataService DataService = new DataService();
             string a = "fifa al fall";
