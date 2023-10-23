@@ -11,7 +11,7 @@ namespace Tyuiu.GalyameevMR.Sprint3.Task3.V5.Lib
     {
         public string ReplaceCharInString(string value, char replaceable, char replacement)
         {
-            value = "fifa al fall";   
+            value = "fifa al fall";    
             replaceable = 'a';
             foreach (char ch in value)
             {
