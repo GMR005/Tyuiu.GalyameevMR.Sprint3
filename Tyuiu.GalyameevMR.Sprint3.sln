@@ -35,7 +35,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.Task4.V9.Lib", "Tyuiu.GalyameevMR.Sprint3.Task4.V9.Lib\Tyuiu.GalyameevMR.Sprint3.Task4.V9.Lib.csproj", "{6A53C7A8-7CC7-4B92-A87D-E6630615D664}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{8D53989D-2BF7-4F9A-A5E1-417FFE8A5E9D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{8D53989D-2BF7-4F9A-A5E1-417FFE8A5E9D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.Task5.V20.Lib", "Tyuiu.GalyameevMR.Sprint3.Task5.V20.Lib\Tyuiu.GalyameevMR.Sprint3.Task5.V20.Lib.csproj", "{EA7EE566-530C-4759-88DC-E74421ADFC99}"
 EndProject
@@ -43,7 +43,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.Task5.V20", "Tyuiu.GalyameevMR.Sprint3.Task5.V20\Tyuiu.GalyameevMR.Sprint3.Task5.V20.csproj", "{1ECBA58D-D07F-4414-84DE-DE35C9854302}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder2", "NewFolder2", "{4879B0E3-5DA5-4178-A5B9-74472655F9B6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{4879B0E3-5DA5-4178-A5B9-74472655F9B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.Task6.V3", "Tyuiu.GalyameevMR.Sprint3.Task6.V3\Tyuiu.GalyameevMR.Sprint3.Task6.V3.csproj", "{B4D52559-345A-4FF0-BE22-1312660DD5EB}"
 EndProject
@@ -51,15 +51,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.Task6.V3.Lib", "Tyuiu.GalyameevMR.Sprint3.Task6.V3.Lib\Tyuiu.GalyameevMR.Sprint3.Task6.V3.Lib.csproj", "{02A7FDE5-7C32-4649-A415-1ABD6A9FB37B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder3", "NewFolder3", "{A70E7F51-85E9-4BC2-87A1-7384A6C9DE4B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{A70E7F51-85E9-4BC2-87A1-7384A6C9DE4B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.Task7.V8.Lib", "Tyuiu.GalyameevMR.Sprint3.Task7.V8.Lib\Tyuiu.GalyameevMR.Sprint3.Task7.V8.Lib.csproj", "{FC14AA7E-0667-442B-9626-949CF4CB0048}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.Task7.V8.Test", "Tyuiu.GalyameevMR.Sprint3.Task7.V8.Test\Tyuiu.GalyameevMR.Sprint3.Task7.V8.Test.csproj", "{7BEDAB82-DE0D-40B3-AADA-4C35C290AD14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GalyameevMR.Sprint3.Task7.V8", "Tyuiu.GalyameevMR.Sprint3.Task7.V8\Tyuiu.GalyameevMR.Sprint3.Task7.V8.csproj", "{DB1E3F4D-E903-4820-BBBD-F41771378770}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder4", "NewFolder4", "{D6B26F88-F3CE-45F7-805E-A1AB27C8C5AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

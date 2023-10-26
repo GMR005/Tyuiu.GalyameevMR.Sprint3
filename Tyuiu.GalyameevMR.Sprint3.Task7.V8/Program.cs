@@ -29,7 +29,6 @@ namespace Tyuiu.GalyameevMR.Sprint3.Task7.V8
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага = " + stopValue);
             Console.WriteLine("****************************************************************");
-            Console.WriteLine("****************************************************************");
             Console.WriteLine("*РЕЗУЛЬТАТ:                                                     ");
             Console.WriteLine("****************************************************************");
             Console.WriteLine("Таблица значений функции:");
@@ -43,7 +42,7 @@ namespace Tyuiu.GalyameevMR.Sprint3.Task7.V8
                 Console.WriteLine($"| {startValue,7:F} | {array[i],10:F3} |");
                 startValue++;
             }
-            Console.WriteLine("+----------+-----------+");
+            Console.WriteLine("------------------------");
         }
     }
 }
